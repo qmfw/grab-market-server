@@ -6,7 +6,8 @@ https://www.notion.so/Node-js-Express-4880a6f34fa64d01892f5a31da157605#744df063a
 데이터베이스 이용하기
 https://www.notion.so/grabyroom/e1a9fa0b36ca4286b05417434e802796#b961c6203ff54b03bbcd86fbf74307f5
 
-
+클라우드 개요
+https://www.notion.so/grabyroom/8cae2509813741b580797ff2927ca148#918443c9b15e4d6e8208c02c28ff26a8
 
 var http = require("http");
 var hostname = "127.0.0.1"; //내 컴퓨터 주소
