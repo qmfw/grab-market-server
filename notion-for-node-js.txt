@@ -9,6 +9,16 @@ https://www.notion.so/grabyroom/e1a9fa0b36ca4286b05417434e802796#b961c6203ff54b0
 클라우드 개요
 https://www.notion.so/grabyroom/8cae2509813741b580797ff2927ca148#918443c9b15e4d6e8208c02c28ff26a8
 
+React Native 개발하기
+https://www.notion.so/React-Native-d18d66b10ef94779836bbafedf7bbf4f#c7b065a8594e4b6885611b1a0d3ea47b
+
+머신러닝 개발 (Tensorflow js)
+https://www.notion.so/grabyroom/dd4e53a20ded4477aec670c3bf2a587b
+https://www.notion.so/Tensorflow-JS-c5f97317724d4f6c81af12306c31a0a8#cc8e0cd2e1094877b2d89e4f6de9d5d2
+
+백엔드 개발자
+https://www.notion.so/BackEnd-75bd2ef5972243209542c3d51b2a36f4
+
 var http = require("http");
 var hostname = "127.0.0.1"; //내 컴퓨터 주소
 var port = 8080;
